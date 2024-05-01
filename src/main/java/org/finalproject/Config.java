@@ -62,7 +62,7 @@ public class Config {
      */
     final static int PIPE_WIDTH_MODIFIER = 2;
 
-    public static final int UNLIKELINESS_OF_POWERUP = 7;
+    public static final int UNLIKELINESS_OF_POWERUP = 8;
 
     /**
      * Determines how long it takes the background to do a full cycle. Larger numbers make the background appear slower.
