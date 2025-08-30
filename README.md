@@ -16,11 +16,8 @@ Peter - From Brooklyn, NY; Class of 2026 and a CSE major.
 Nikita - From Boyds, MD; Class of 2026 and a CSE major.
 
 ## Images
-Single player:
 <img width="500" height="356" alt="image" src="https://github.com/user-attachments/assets/caeee358-c24c-4f0d-aa99-bed0d6313d67" />
-Multi player:
 <img width="500" height="356" alt="image" src="https://github.com/user-attachments/assets/0b2a6cf5-a531-4353-8bdd-5371984f9987" />
-Game Over:
 <img width="500" height="356" alt="image" src="https://github.com/user-attachments/assets/899291b1-1847-4e76-afe5-56590f94765c" />
 
 
@@ -50,6 +47,7 @@ Attached is a video of our game demonstration:
 
 
 https://mediaspace.bucknell.edu/media/FinalProjectVideo.mp4/1_4o3sl15m
+
 
 
 
